@@ -90,20 +90,6 @@ Drop your photo in `/public/photo.jpg` and update `About.tsx`:
 <Image src="/photo.jpg" alt="Ojaswi" fill className="rounded-full object-cover" />
 ```
 
-## 🌐 Deployment
-
-### Vercel (Recommended)
-```bash
-npm install -g vercel
-vercel
-```
-
-### Netlify
-```bash
-npm run build
-# Upload the .next folder or connect your GitHub repo
-```
-
 ## 📦 Dependencies
 
 | Package | Purpose |
