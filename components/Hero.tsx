@@ -73,7 +73,7 @@ const codeFragments = [
   { text: "const dev = new Ojaswi();", x: "13%", y: "14%", delay: 2.5 },
   { text: "await deploy({ cloud: 'AWS' })", x: "60%", y: "9%", delay: 3.0 },
   { text: "git push origin main", x: "72%", y: "76%", delay: 3.5 },
-  { text: "docker build -t portfolio .", x: "%", y: "70%", delay: 2.8 },
+  { text: "docker build -t portfolio .", x: "10%", y: "70%", delay: 2.8 },
   { text: "SELECT * FROM skills;", x: "75%", y: "30%", delay: 3.2 },
   { text: "npm run universe", x: "8%", y: "44%", delay: 4.0 },
 ];
