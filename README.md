@@ -72,23 +72,8 @@ ojaswi-portfolio/
 └── package.json
 ```
 
-## 🎨 Customization
-
 ### Colors
 Edit `tailwind.config.ts` → `theme.extend.colors.cosmos` to tweak the galaxy palette.
-
-### Content
-All personal data lives directly in each component. Just find and replace:
-- `ojaswikhanal7182060@gmail.com` → your email
-- `+977 9845628075` → your phone
-- Update experience, skills, and project arrays in each component file
-
-### Adding a Profile Photo
-Drop your photo in `/public/photo.jpg` and update `About.tsx`:
-```jsx
-// Replace the initials div with:
-<Image src="/photo.jpg" alt="Ojaswi" fill className="rounded-full object-cover" />
-```
 
 ## 📦 Dependencies
 
