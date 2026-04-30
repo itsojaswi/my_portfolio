@@ -1,4 +1,4 @@
-# 🌌 Ojaswi Khanal — Galaxy Portfolio
+# Ojaswi Khanal 
 
 A stunning, galaxy-themed developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**.
 
